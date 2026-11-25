@@ -12,7 +12,7 @@ Pakistani truck horns are not only used for road communication. Their distinctiv
 
 ## Sound Collection
 
-The collection contains 19 individual truck horn recordings.
+The collection contains 8 individual truck horn recordings.
 
 Each sound will be studied based on:
 
